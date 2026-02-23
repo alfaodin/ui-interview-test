@@ -1,0 +1,42 @@
+[
+  {
+    "id": "trj-crd",
+    "name": "Tarjeta de Crédito",
+    "description": "Tarjeta de crédito con beneficios exclusivos y cashback test",
+    "logo": "https://www.visa.com.ec/dam/VCOM/regional/lac/SPA/Default/Pay%20With%20Visa/Tarjetas/visa-signature-400x225.jpg",
+    "date_release": "2024-01-15",
+    "date_revision": "2025-01-15"
+  },
+  {
+    "id": "cta-ahor",
+    "name": "Cuenta de Ahorros",
+    "description": "Cuenta de ahorros con alta rentabilidad y sin comisiones",
+    "logo": "https://www.visa.com.ec/dam/VCOM/regional/lac/SPA/Default/Pay%20With%20Visa/Tarjetas/visa-signature-400x225.jpg",
+    "date_release": "2024-02-01",
+    "date_revision": "2025-02-01"
+  },
+  {
+    "id": "seg-vida",
+    "name": "Seguro de Vida",
+    "description": "Protección integral para ti y tu familia con cobertura amplia",
+    "logo": "https://www.visa.com.ec/dam/VCOM/regional/lac/SPA/Default/Pay%20With%20Visa/Tarjetas/visa-signature-400x225.jpg",
+    "date_release": "2024-05-20",
+    "date_revision": "2025-05-20"
+  },
+  {
+    "id": "trj-deb",
+    "name": "Tarjeta de Débito",
+    "description": "Tarjeta de débito con acceso mundial y sin costos de mantenimiento",
+    "logo": "https://www.visa.com.ec/dam/VCOM/regional/lac/SPA/Default/Pay%20With%20Visa/Tarjetas/visa-signature-400x225.jpg",
+    "date_release": "2024-06-01",
+    "date_revision": "2025-06-01"
+  },
+  {
+    "id": "hipoteca",
+    "name": "Crédito Hipotecario",
+    "description": "Financiamiento hipotecario con las mejores tasas del mercado",
+    "logo": "https://www.visa.com.ec/dam/VCOM/regional/lac/SPA/Default/Pay%20With%20Visa/Tarjetas/visa-signature-400x225.jpg",
+    "date_release": "2024-06-15",
+    "date_revision": "2025-06-15"
+  },
+]
